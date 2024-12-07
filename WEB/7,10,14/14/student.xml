@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xsl stylesheet type="text/xsl" href="yours.xsl"?>
+<catalog>
+<cd>
+<name>Mani</name>
+<reg>140</reg>
+<dept>cse</dept>
+<year>3</year>
+<sub>pass</sub>
+</cd>
+</catalog>
